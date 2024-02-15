@@ -6,7 +6,7 @@ public class Main {
         System.out.print("Hi!");
         System.out.println(" I'm jokimi");
         textTest();
-        for (int i=0; i<9; i++) {
+        for (int i = 0; i < 9; i++) {
             if (i > 2 && i < 7)
                 System.out.println(i);
         }
