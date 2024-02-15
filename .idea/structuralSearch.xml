@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StructuralSearch">
+    <searchConfiguration name="all methods (within hierarchy)" text="class $_1$ {&#10;    $ReturnType$ $Method$ ($ParameterType$ $Parameter$);&#10;}" recursive="true" caseInsensitive="false" type="JAVA" pattern_context="default">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="_1" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="Method" within="" contains="" />
+      <constraint name="Parameter" within="" contains="" />
+      <constraint name="ParameterType" within="" contains="" />
+    </searchConfiguration>
+  </component>
+</project>
